@@ -273,6 +273,7 @@
     <ROW Registry="__6" Root="2" Key="Software\Classes\*\shell\4F0C3FD6-D092-4D46-A3D0-0389882732B9\command" Value="&quot;[#uploader.exe]&quot; &quot;%1&quot;" Component_="MUIVerb_1"/>
     <ROW Registry="command" Root="2" Key="Software\Classes\*\shell\4F0C3FD6-D092-4D46-A3D0-0389882732B9\command" Name="\"/>
     <ROW Registry="shell" Root="2" Key="Software\Classes\*\shell" Name="\"/>
+    <!--154F5C35-A008-4936-9496-6B1C4128A0F0-->
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
     <ROW Shortcut="VirusTotalUploader" Directory_="SHORTCUTDIR" Name="VIRUST~1|VirusTotalUploader" Component_="uploader.exe" Target="[#uploader.exe]" Description="VirusTotalUploader" Hotkey="0" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
